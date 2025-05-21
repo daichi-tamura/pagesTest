@@ -46,6 +46,10 @@
 
 #### Rubyの例：
 
-```ruby
+```ruby {.copy}
 puts "Hello, Test Page!"
 ```
+
+# 画像表示のテスト
+![テスト画像](images/test_1.png)
+
