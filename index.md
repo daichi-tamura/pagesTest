@@ -46,7 +46,7 @@
 
 #### Rubyの例：
 
-```ruby {.copy}
+```ruby
 puts "Hello, Test Page!"
 ```
 
