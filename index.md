@@ -53,3 +53,5 @@ puts "Hello, Test Page!"
 # 画像表示のテスト
 ![テスト画像](images/test_1.png)
 
+# リンクテスト
+[リンクテスト](https://www.google.co.jp/ "リンクテスト")
